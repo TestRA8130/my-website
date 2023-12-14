@@ -2,8 +2,5 @@
 
 This is readme file
 
-New chnages in the file
-
-
-
 Again update the file
+Update
